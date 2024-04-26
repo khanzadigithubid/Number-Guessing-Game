@@ -1,0 +1,19 @@
+{
+  "name": "kk11-number-guessing-game",
+  "version": "2.0.2",
+  "description": "This is a cli base number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "git": "^0.1.5",
+    "inquire": "^0.4.8"
+  }
+}
